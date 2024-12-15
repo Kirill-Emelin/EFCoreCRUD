@@ -61,5 +61,5 @@ The application supports the following operations:
 - Main(): Handles user input and invokes the corresponding methods.
 
 ## Project links
-[Основные операции с данными. CRUD](https://metanit.com/sharp/efcore/1.4.php)
-[Руководство по Entity Framework Core 9](https://metanit.com/sharp/efcore/)
+- [Основные операции с данными. CRUD](https://metanit.com/sharp/efcore/1.4.php)
+- [Руководство по Entity Framework Core 9](https://metanit.com/sharp/efcore/)
